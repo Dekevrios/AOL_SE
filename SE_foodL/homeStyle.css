@@ -1,0 +1,341 @@
+.home-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home-page .group-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 360px;
+    height: 800px;
+  }
+  
+  .home-page .group {
+    position: relative;
+    width: 362px;
+    height: 797px;
+    top: 17px;
+  }
+  
+  .home-page .overlap {
+    position: absolute;
+    width: 360px;
+    height: 684px;
+    top: 113px;
+    left: 0;
+  }
+  
+  .home-page .bg {
+    position: absolute;
+    width: 360px;
+    height: 620px;
+    top: 64px;
+    left: 0;
+    background-color: #fecd04;
+    border-radius: 5.71px;
+  }
+  
+  .home-page .card-kulkas {
+    position: absolute;
+    width: 333px;
+    height: 345px;
+    top: 339px;
+    left: 15px;
+  }
+  
+  .home-page .overlap-group {
+    position: relative;
+    width: 331px;
+    height: 345px;
+  }
+  
+  .home-page .rectangle {
+    position: absolute;
+    width: 330px;
+    height: 345px;
+    top: 0;
+    left: 0;
+    background-color: #88c43d;
+    border-radius: 7px 7px 0px 0px;
+  }
+  
+  .home-page .div {
+    position: absolute;
+    width: 331px;
+    height: 294px;
+    top: 35px;
+    left: 0;
+    background-color: #ecc6a5;
+    border-radius: 20px 20px 0px 0px;
+  }
+  
+  .home-page .img {
+    position: absolute;
+    width: 144px;
+    height: 145px;
+    top: 52px;
+    left: 176px;
+    object-fit: cover;
+  }
+  
+  .home-page .rectangle-2 {
+    position: absolute;
+    width: 144px;
+    height: 145px;
+    top: 52px;
+    left: 14px;
+  }
+  
+  .home-page .rectangle-3 {
+    position: absolute;
+    width: 147px;
+    height: 90px;
+    top: 222px;
+    left: 14px;
+  }
+  
+  .home-page .rectangle-4 {
+    position: absolute;
+    width: 144px;
+    height: 73px;
+    top: 222px;
+    left: 176px;
+    object-fit: cover;
+  }
+  
+  .home-page .text-wrapper {
+    position: absolute;
+    top: 7px;
+    left: 23px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .shortcut-bar {
+    position: absolute;
+    width: 331px;
+    height: 110px;
+    top: 0;
+    left: 15px;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .home-page .scut-menu {
+    position: absolute;
+    width: 90px;
+    height: 110px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .image-wrapper {
+    position: absolute;
+    width: 88px;
+    height: 92px;
+    top: 0;
+    left: 0;
+    background-color: #ecc6a5;
+    border-radius: 20px;
+  }
+  
+  .home-page .image {
+    width: 64px;
+    height: 64px;
+    top: 14px;
+    left: 12px;
+    background-blend-mode: darken;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .home-page .text-wrapper-2 {
+    position: absolute;
+    top: 92px;
+    left: 27px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .scut-kategori {
+    position: absolute;
+    width: 96px;
+    height: 110px;
+    top: 0;
+    left: 118px;
+  }
+  
+  .home-page .img-wrapper {
+    position: absolute;
+    width: 88px;
+    height: 92px;
+    top: 0;
+    left: 3px;
+    background-color: #ebc6a4;
+    border-radius: 20px;
+  }
+  
+  .home-page .image-2 {
+    width: 66px;
+    height: 66px;
+    top: 13px;
+    left: 15px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .home-page .text-wrapper-3 {
+    position: absolute;
+    top: 92px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .scut-penyimpanan {
+    position: absolute;
+    width: 91px;
+    height: 110px;
+    top: 0;
+    left: 242px;
+  }
+  
+  .home-page .overlap-2 {
+    position: absolute;
+    width: 89px;
+    height: 92px;
+    top: 0;
+    left: 0;
+    background-color: #ecc6a5;
+    border-radius: 20px;
+  }
+  
+  .home-page .image-3 {
+    width: 68px;
+    height: 77px;
+    top: 7px;
+    left: 11px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .home-page .text-wrapper-4 {
+    position: absolute;
+    top: 92px;
+    left: 4px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .navbar {
+    position: absolute;
+    width: 360px;
+    height: 63px;
+    top: 607px;
+    left: 0;
+    background-color: #fecd04;
+    border-radius: 30px;
+  }
+  
+  .home-page .image-4 {
+    width: 41px;
+    height: 38px;
+    top: 13px;
+    left: 164px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .home-page .image-5 {
+    width: 36px;
+    height: 36px;
+    top: 11px;
+    left: 36px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .home-page .basil-add-outline {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    top: 11px;
+    left: 291px;
+  }
+  
+  .home-page .card {
+    position: absolute;
+    width: 338px;
+    height: 145px;
+    top: 141px;
+    left: 11px;
+  }
+  
+  .home-page .food-locker {
+    position: relative;
+    top: 0;
+    left: 120px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .span {
+    font-weight: 700;
+  }
+  
+  .home-page .text-wrapper-5 {
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  
+  .home-page .searchbar {
+    position: absolute;
+    width: 294px;
+    height: 26px;
+    top: 46px;
+    left: 34px;
+  }
+  
+  .home-page .div-wrapper {
+    position: relative;
+    width: 292px;
+    height: 26px;
+    background-color: #d9d9d9;
+    border-radius: 7px;
+  }
+  
+  .home-page .text-wrapper-6 {
+    position: absolute;
+    width: 196px;
+    top: 6px;
+    left: 22px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
